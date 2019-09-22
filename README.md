@@ -1,5 +1,9 @@
 # Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Recursos adicionales:
+
+[Web GeeksforGeeks](https://www.geeksforgeeks.org) 
+
 A curated list of awesome mathematics resources. This is resource mentioned in [this](https://youtu.be/YzfdL58virc) video on Youtube by Siraj Raval. The credits for this curriculum go to [rossant](https://github.com/rossant/awesome-math). I've merely wrapped it, adding in my own resources. 
 
 # Contents
